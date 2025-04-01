@@ -2,10 +2,10 @@ en:
   languageName: English
   weight: 1
   ### copyright (markdown can be used) ###
-  copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
-  title: "Site Title"
+  copyright: "Copyright &copy; {{< current_year >}} Allergy Access. All Rights Reserved."
+  title: "Allergy Access"
   params:
-    description: "Site Description"
+    description: "Allergy Access is a charitable organization dedicated to providing resources and support for individuals with allergies."
     ### accessibility ###
     accessibility:
       skip_text: "Skip to content"
@@ -13,12 +13,11 @@ en:
       help_url: "/example-page/"
     ### calls to action ###
     main_cta:
-      text: "Join"
-      link: "/example-page/"
+      text: "Donate"
+      link: ""
     footer_cta:
-      text: "Join us"
-      link: "/example-page/"
-    github_edit: "Edit this page on GitHub"
+      text: "Donate"
+      link: ""
   ### example menu showing children ###
   menu:
     main:
@@ -56,33 +55,4 @@ en:
       name: "Blog"
       url: "/blog/"
       weight: 4
-    - identifier: "example"
-      name: "External"
-      url: "https://cncf.io?ref=dot-org"
-      weight: 5
-es:
-  languageName: Spanish
-  contentDir: content/es
-  weight: 2
-  title: "Título del Sitio"
-  params:
-    description: "Descripción del Sitio"
-  menu:
-    main:
-    - identifier: "about"
-      name: "Acerca de"
-      url: "/example-page/"
-      weight: 1
-    - identifier: "child-1"
-      name: "Página Hija de Ejemplo"
-      url: "/example-page/"
-      weight: 1
-      parent: "about"
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
-      weight: 3
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
-      weight: 2
+

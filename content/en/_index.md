@@ -6,7 +6,7 @@ showHeader: false
 
 {{< columns count=2 >}}
 {{< column >}}
-# Expanding Food Choices for People with Allergies, One Bite at a Time
+# Expanding Food Choices for People with Allergies
 
 {{< intro >}}
 Our mission is to empower people with food allergies to live full and fulfilling lives by expanding their access to safe and delicious food. We believe that everyone deserves to enjoy the simple pleasure of eating without fear, and we are committed to making that a reality.
@@ -15,7 +15,7 @@ Our mission is to empower people with food allergies to live full and fulfilling
 {{< /column >}}
 {{< column >}}
 {{< spacer >}}
-{{< img src="static/images/headline.jpg" loading="eager" >}}
+{{< img src="images/headline.jpg" loading="eager" >}}
 {{< /column >}}
 {{< /columns >}}
 
