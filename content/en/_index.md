@@ -21,19 +21,19 @@ Our mission is to empower people with food allergies to live full and fulfilling
 
 {{< columns count=3 >}}
 {{< column >}}
-{{< img src="/img/placeholder.svg" >}}
-### Free & open source
-The Dot-Org theme is a free and open source theme for Hugo CMS. Use it however you want 🏠 🧱
+{{< img src="/images/factory.jpg" >}}
+### Industry
+We connect food producers with allergy-aware consumers, helping to bridge the gap and increase the availability of allergy-friendly products on store shelves.
 {{< /column >}}
 {{< column >}}
-{{< img src="/img/placeholder.svg" >}}
-### Fast & full-featured
-HTML/CSS/JS written from scratch. No frameworks, no libraries, perfect site speed scores 🚀 🧨
+{{< img src="/images/restaurant.jpg" >}}
+### Restaurants
+We aim to create a network of allergy-aware restaurants, making dining out a pleasurable and safe experience for everyone, regardless of dietary restrictions.
 {{< /column >}}
 {{< column >}}
-{{< img src="/img/placeholder.svg" >}}
-### Accessible & multilingual
-Supports multiple languages out of the box. Aims to comply with WCAG 2.1 standards 🌐 👁️‍🗨️
+{{< img src="/images/food_bank.jpg" >}}
+### Food Banks
+We collaborate with food banks to increase the availability of safe and nutritious allergy-friendly food options for individuals and families in need.
 {{< /column >}}
 {{< /columns >}}
 {{< spacer 20 >}}

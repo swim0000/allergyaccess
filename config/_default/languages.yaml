@@ -14,10 +14,10 @@ en:
     ### calls to action ###
     main_cta:
       text: "Donate"
-      link: ""
+      link: "https://www.paypal.com/uk/home"
     footer_cta:
       text: "Donate"
-      link: ""
+      link: "https://www.paypal.com/uk/home"
   ### example menu showing children ###
   menu:
     main:
@@ -37,10 +37,6 @@ en:
       weight: 2
       post: "Aenean commodo ligula get dolor. Aenean massa."
       parent: "about"
-    - identifier: "child-3"
-      name: "Example External page"
-      url: "https://cncf.io?ref=dot-org"
-      weight: 3
       post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
       parent: "about"
     - identifier: "demo-page"
