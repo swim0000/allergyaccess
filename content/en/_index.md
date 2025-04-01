@@ -15,7 +15,7 @@ Our mission is to empower people with food allergies to live full and fulfilling
 {{< /column >}}
 {{< column >}}
 {{< spacer >}}
-{{< img src="/images/headline.jpg" loading="eager" >}}
+{{< img src="static/images/headline.jpg" loading="eager" >}}
 {{< /column >}}
 {{< /columns >}}
 
