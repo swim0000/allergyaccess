@@ -21,7 +21,7 @@ en:
   ### example menu showing children ###
   menu:
     main:
-    - identifier: "Initatives
+    - identifier: "initatives"
       name: "Initatives"
       url: "/example-page/"
       weight: 1
@@ -30,19 +30,19 @@ en:
       url: "/initiatives/industry/"
       weight: 1
       post: "What we do to promote allergy awareness in the food industry."
-      parent: "Initatives"
+      parent: "initatives"
     - identifier: "restaurants"
       name: "Restaurants"
       url: "/initiatives/restaurants/"
       weight: 2
       post: "How we work with restaurants to promote allergy awareness."
-      parent: "Initatives"
+      parent: "initatives"
     - identifier: "food banks"
       name: "Food Banks"
       url: "/initiatives/food-banks/"
       weight: 3
       post: "How we support food banks in promoting allergy awareness & supply."
-      parent: "Initatives"      
+      parent: "initatives"      
     - identifier: "about"
       name: "About"
       url: "/about/"
