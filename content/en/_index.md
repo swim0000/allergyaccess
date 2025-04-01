@@ -36,49 +36,25 @@ We aim to create a network of allergy-aware restaurants, making dining out a ple
 We collaborate with food banks to increase the availability of safe and nutritious allergy-friendly food options for individuals and families in need.
 {{< /column >}}
 {{< /columns >}}
-{{< spacer 20 >}}
-## Embed videos without comprimising page speed
-
-{{< youtube_enhanced id="b3ta7fOo6Mo" >}}
-
-{{< spacer 20 >}}
 
 {{< cards count=3 >}}
 {{< card >}}
-#### See all features
-Dot Org is loaded with shortcodes to make it easy for you to construct pages and content however you want.
+#### See All Our Initiatives
+See what we up to, trying make food allergy suffers life easier.
 {{< spacer 5 >}}
-{{< button link="/demo-page" text="Demo Page" >}}
+{{< button link="/initiatives" text="Initiatives" >}}
 {{< /card >}}
 {{< card >}}
-#### Frequently Asked Qs
-A special Frequently Asked Questions "FAQ" layout loads each post inside an accordion for quick navigation.
+#### Frequently Asked Questions
+Our most frequently asked questions.
 {{< spacer 5 >}}
 {{< button link="/faq" text="FAQs" >}}
 {{< /card >}}
 {{< card >}}
-#### Full Blog ready to go
-The built-in blog functionality comes with reusable author data file, breadcrumbs and pagination.
+#### Our Allergy Blog
+Our blog contains tips, news and updates around all thing food allergies.
 {{< spacer 5 >}}
 {{< button link="/blog" text="Blog" >}}
 {{< /card >}}
 {{< /cards >}}
 {{< spacer 20 >}}
-
-### Full feature list:
-
-- Modern - simple yet effective modern design
-- Responsive - works on mobile through to desktop, mobile first design
-- Accessible - design and markup comply with WCAG 2.1 AA guidelines
-- Fast - HTML/CSS/JS written from scratch to be as fast as possible without relying on frameworks or libraries
-- Performance - perfect 100 Lighthouse/PageSpeed Insight scores :rocket:
-- Multilingual - ready to support multiple languages of content
-- Mega Menu - large menu with dropdown sections, custom footer menu
-- Search - PageFind built in
-- Blog - blog posts ready to go, post authors linked to Twitter, Edit page link.
-- FAQ accordion - FAQ page with accordion structure
-- Custom Shortcodes - Easily insert advanced features with simple shortcodes
-- Social links - Insert URLs to activate
-- Google Analytics - Add tracking with just the account ID
-- Custom JS and CSS - Easily insert custom HTML, JS and CSS in to the theme
-- Branding - Open Graph OG content, favicons
