@@ -22,7 +22,3 @@ We work with food banks to increase the availability of allergy-friendly food op
 * Gain access to expert advice and resources on allergen management.
 * Strengthen your community partnerships and support networks.
 * Improve the quality of life for those with allergies accessing your food bank.
-
-{{< button link="/path/to/page" text="Default Button" >}}
-{{< button link="/path/to/page" style="secondary" text="Secondary Button" >}}
-{{< button link="/path/to/page" style="tertiary" text="Tertiary Button" >}}
