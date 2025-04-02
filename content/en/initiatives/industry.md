@@ -1,5 +1,5 @@
 ---
-title: Industry - Allergy Access
+title: Industry 
 description: Partner with us to make your food products and processes more allergy-friendly.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: About Us - Allergy Access
+title: About Us
 description: Learn about our mission and the founder's personal journey that inspired Allergy Access.
 ---
 
