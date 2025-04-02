@@ -61,7 +61,7 @@ en:
     
     - identifier: "volunteering"
       name: "Volunteering"
-      url: "/about/volunteering/"
+      url: "/volunteering/"
       weight: 5
     
     
