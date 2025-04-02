@@ -3,8 +3,6 @@ title: Food Banks
 description: Ensure access to safe and nutritious food for individuals with allergies in need.
 ---
 
-# Supporting Food Banks
-
 {{< intro >}}
 We work with food banks to increase the availability of allergy-friendly food options for individuals and families in need.
 {{< /intro >}}

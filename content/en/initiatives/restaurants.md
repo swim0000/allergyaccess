@@ -3,8 +3,6 @@ title: Restaurants
 description: Create a safe and welcoming dining experience for customers with food allergies.
 ---
 
-# Allergy-Friendly Restaurants
-
 {{< intro >}}
 We help restaurants create a safe and enjoyable dining experience for customers with food allergies.
 {{< /intro >}}

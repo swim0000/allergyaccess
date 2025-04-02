@@ -3,8 +3,6 @@ title: Industry
 description: Partner with us to make your food products and processes more allergy-friendly.
 ---
 
-# Working with Industry
-
 {{< intro >}}
 We collaborate with food producers to increase the availability of safe and delicious allergy-friendly products.
 {{< /intro >}}

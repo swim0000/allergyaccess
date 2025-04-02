@@ -82,3 +82,8 @@ en:
       url: "/faq/"
       weight: 5
     
+    - identifier: "partners"
+      name: "Partners"
+      url: "/partners/"
+      weight: 6
+    
