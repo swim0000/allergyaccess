@@ -1,7 +1,6 @@
 ---
 title: "Blog"
 description: ""
-showHeader: false
 ---
 
 {{< cards count=3 >}}
