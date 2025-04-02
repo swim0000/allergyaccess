@@ -45,14 +45,14 @@ See what we up to, trying make food allergy suffers life easier.
 {{< button link="/initiatives" text="Initiatives" >}}
 {{< /card >}}
 {{< card >}}
-#### Frequently Asked Questions
-Our most frequently asked questions.
+#### Recipes
+See a list of deliciously crafted recipes.
 {{< spacer 5 >}}
 {{< button link="/faq" text="FAQs" >}}
 {{< /card >}}
 {{< card >}}
-#### Our Allergy Blog
-Our blog contains tips, news and updates around all thing food allergies.
+#### Partnes
+See who we working with.
 {{< spacer 5 >}}
 {{< button link="/blog" text="Blog" >}}
 {{< /card >}}

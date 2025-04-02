@@ -23,9 +23,21 @@ en:
     main:
     - identifier: "about"
       name: "About"
-      url: "/about/"
+      url: "/"
       weight: 1
-    
+    - identifier: "about us"
+      name: "About Us"
+      url: "/about/about-us/"
+      weight: 1
+      post: "Get involved and make a difference in the allergy community."
+      parent: "about"
+    - identifier: "volunteering"
+      name: "Volunteering"
+      url: "/about/volunteering/"
+      weight: 2
+      post: "Get involved and make a difference in the allergy community."
+      parent: "about"
+        
     - identifier: "initatives"
       name: "Initatives"
       url: "/example-page/"
@@ -48,44 +60,45 @@ en:
       weight: 3
       post: "How we support food banks in promoting allergy awareness & supply."
       parent: "initatives"      
-      
+
+    - identifier: "partners"
+      name: "Partners"
+      url: "/partners/"
+      weight: 3
+
     - identifier: "blog"
       name: "Blog"
       url: "/example-page/"
-      weight: 3
-    - identifier: "recipes"
-      name: "Recipes"
-      url: "/blog/recipes/"
-      weight: 1
-      post: "Get tasty recipes that are allergy-friendly."
-      parent: "blog"
-    - identifier: "info"
+      weight: 4
+    - identifier: "advice"
       name: "Advice"
       url: "/blog/advice/"
-      weight: 2
+      weight: 1
       post: "Get the latest advice and tips on allergies and food safety."
       parent: "blog"
     - identifier: "updates"
       name: "Updates"
       url: "/blog/updates/"
-      weight: 3
+      weight: 2
       post: "Get the latest updates on our initiatives and events."
       parent: "blog"
     
-    - identifier: "volunteering"
-      name: "Volunteering"
-      url: "/volunteering/"
-      weight: 4
-    
-    - identifier: "partners"
-      name: "Partners"
-      url: "/partners/"
-      weight: 5
-
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
+    - identifier: "recipes"
+      name: "Recipes"
+      url: "/"
       weight: 6
+    - identifier: "nut free"
+      name: "Nut Free"
+      url: "/recipes/nut-free/"
+      weight: 1
+      post: "Nut free recipes for everyone."
+      parent: "recipes"
+    - identifier: "gluten free"
+      name: "Gluten Free"
+      url: "/recipes/gluten-free/"
+      weight: 2
+      post: "Gluten free recipes for everyone."
+      parent: "recipes"
     
     
     
