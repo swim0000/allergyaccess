@@ -55,4 +55,7 @@ en:
       name: "Blog"
       url: "/blog/"
       weight: 4
-
+    - identifier: "volunteering"
+      name: "Volunteering"
+      url: "/volunteering/"
+      weight: 5
