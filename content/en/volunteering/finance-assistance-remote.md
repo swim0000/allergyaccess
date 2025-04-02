@@ -1,5 +1,5 @@
 ---
-title: Volunteer Finance Assistant (Remote) - Alergy Access
+title: Volunteer Finance Assistant (Remote)
 description: Support Allergy Access's mission by assisting with financial administration remotely.
 ---
 
