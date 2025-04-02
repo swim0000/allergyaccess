@@ -60,10 +60,10 @@ en:
       post: "Get tasty recipes that are allergy-friendly."
       parent: "blog"
     - identifier: "info"
-      name: "Information"
-      url: "/blog/infomation/"
+      name: "Advice"
+      url: "/blog/advice/"
       weight: 2
-      post: "Get the latest information on allergies and food safety."
+      post: "Get the latest advice and tips on allergies and food safety."
       parent: "blog"
     - identifier: "updates"
       name: "Updates"

@@ -11,10 +11,10 @@ List tasty recipes that allergy free.
 {{< button link="/blog/recipes" text="Recipes" >}}
 {{< /card >}}
 {{< card >}}
-#### Information
-General infomation and tips for suffers.
+#### Advice
+General advice and tips for suffers.
 {{< spacer 5 >}}
-{{< button link="/blog/infomation" text="Information" >}}
+{{< button link="/blog/advice" text="Advice" >}}
 {{< /card >}}
 {{< card >}}
 #### Updates
