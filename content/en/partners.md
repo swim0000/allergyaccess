@@ -6,7 +6,6 @@ description: A list of parnter we work with.
 {{< cards count=3 >}}
 {{< card >}}
 #### Inheritance Help
-![Inheritance Help!](images/examplelogo.png "Inheritance Help")
 Free info for families about inheritance.
 {{< spacer 5 >}}
 {{< button link="https://inheritancehelp.co.uk/" text="Website" >}}
