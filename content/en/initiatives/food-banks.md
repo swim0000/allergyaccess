@@ -1,5 +1,4 @@
 ---
-
 title: Food Banks - Allergy Access
 description: Ensure access to safe and nutritious food for individuals with allergies in need.
 ---

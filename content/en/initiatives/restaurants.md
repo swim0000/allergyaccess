@@ -1,3 +1,4 @@
+---
 title: Restaurants - Allergy Access
 description: Create a safe and welcoming dining experience for customers with food allergies.
 ---

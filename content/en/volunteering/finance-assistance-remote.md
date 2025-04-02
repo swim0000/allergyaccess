@@ -3,8 +3,6 @@ title: Volunteer Finance Assistant (Remote) - Alergy Access
 description: Support Allergy Access's mission by assisting with financial administration remotely.
 ---
 
-# Volunteer Finance Assistant (Remote)
-
 ## About Allergy Access
 
 Allergy Access is a charity dedicated to improving food access for individuals with food allergies. We work with industry, restaurants, and food banks to create a more inclusive and safe food environment.
