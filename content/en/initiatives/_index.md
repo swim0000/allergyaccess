@@ -1,7 +1,6 @@
 ---
 title: Initatives
 description: List of the initatives we are currently working on. 
-showHeader: true
 ---
 
 {{< cards count=3 >}}
@@ -18,7 +17,7 @@ How we work with restaurants to promote allergy awareness.
 {{< button link="/initiatives/restaurants" text="Restaurants" >}}
 {{< /card >}}
 {{< card >}}
-#### Our Allergy Blog
+#### Food Banks
 How we support food banks in promoting allergy awareness & supply.
 {{< spacer 5 >}}
 {{< button link="/initiatives/food-banks" text="Food Banks" >}}
