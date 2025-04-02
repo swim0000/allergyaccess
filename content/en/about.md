@@ -3,8 +3,6 @@ title: About Us - Allergy Access
 description: Learn about our mission and the founder's personal journey that inspired Allergy Access.
 ---
 
-# About Allergy Access
-
 {{< intro >}}
 Allergy Access is a charity dedicated to improving food access for individuals with food allergies. We work with industry, restaurants, and food banks to create a more inclusive and safe food environment.
 {{< /intro >}}
@@ -28,7 +26,6 @@ We believe that everyone deserves to enjoy the simple pleasure of eating without
 
 ## Our Values
 
-* **Inclusivity:** We believe in creating a food environment where everyone feels safe and welcome.
 * **Safety:** We prioritize the safety of individuals with food allergies in all our initiatives.
 * **Collaboration:** We work together with industry, restaurants, and food banks to achieve our mission.
 * **Empowerment:** We empower individuals with food allergies to live confidently and enjoy food.
