@@ -77,13 +77,15 @@ en:
       url: "/volunteering/"
       weight: 4
     
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
-      weight: 5
-    
     - identifier: "partners"
       name: "Partners"
       url: "/partners/"
+      weight: 5
+
+    - identifier: "faq"
+      name: "FAQs"
+      url: "/faq/"
       weight: 6
+    
+    
     
