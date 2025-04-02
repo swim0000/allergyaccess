@@ -45,10 +45,10 @@ See what we up to, trying make food allergy suffers life easier.
 {{< button link="/initiatives" text="Initiatives" >}}
 {{< /card >}}
 {{< card >}}
-#### Recipes
-See a list of deliciously crafted recipes.
+#### Updates
+Keep up to date with what we are up to.
 {{< spacer 5 >}}
-{{< button link="/faq" text="FAQs" >}}
+{{< button link="/updates" text="Updates" >}}
 {{< /card >}}
 {{< card >}}
 #### Partnes
