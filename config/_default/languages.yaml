@@ -18,7 +18,6 @@ en:
     footer_cta:
       text: "Donate"
       link: "https://www.paypal.com/uk/home"
-    api_url: "https://directus-m80owooc4gs4g084cssk8cg8.tenantportal.co.uk/"
   ### example menu showing children ###
   menu:
     main:
